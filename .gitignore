@@ -1,0 +1,14 @@
+.vscode/
+*.swp
+trash/
+yolo/
+servoSurucu/
+.ipynb_checkpoints
+repo/
+__pycache__/
+.kateproject
+*.mp4
+datasets/
+dataset/
+*.h5
+
